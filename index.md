@@ -19,3 +19,5 @@ My projects:
   * My implementation of Affine Cipher with a simple and easy to use GUI
 * [Battleship](https://berkerol.github.io/battleship)
   * Text based remake of the classic game with customization options for adding variety
+
+My [CV](https://berkerol.github.io/cv).

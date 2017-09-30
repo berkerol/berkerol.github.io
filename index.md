@@ -1,4 +1,4 @@
-Utilities:
+Utilities
 
 - [Affine Cipher](https://berkerol.github.io/affine-cipher)
 
@@ -12,13 +12,31 @@ Utilities:
 
   - Downloads Bing & NASA Photo of the Day and makes it desktop background
 
-Desktop Games:
+Web Games
+
+- [Animation](https://berkerol.github.io/animation)
+
+  - A beautiful sky animation with colorful and moving stars
+
+- [Breakout](https://berkerol.github.io/breakout)
+
+  - Remake of the classic game with falling meteors for increased action
+
+- [Pong](https://berkerol.github.io/pong)
+
+  - Remake of the classic game with different game types
+
+- [Typer](https://berkerol.github.io/typer)
+
+  - A tower defense like typing game
+
+Desktop Games
 
 - [Sprinter Turtle](https://berkerol.github.io/sprinter-turtle)
 
   - 2D top down road crossing game (designed by myself)
 
-- [Pong](https://berkerol.github.io/pong)
+- [Pong](https://berkerol.github.io/pong-java)
 
   - Remake of the classic game with customization options for adding variety
 

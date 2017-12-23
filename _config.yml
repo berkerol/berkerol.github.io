@@ -1,3 +1,6 @@
-theme:       jekyll-theme-cayman
-title:       Berk Erol's website
-description: Welcome to my personal page
+theme:           jekyll-theme-cayman
+title:           Berk Erol's website
+description:     Welcome to my personal page
+is_user_page:    true
+is_project_page: false
+show_downloads:  false

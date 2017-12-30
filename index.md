@@ -8,7 +8,7 @@
 
   - Remake of the classic game with falling meteors for increased action
 
-- [Pong](https://berkerol.github.io/pong)
+- [Battle Pong](https://berkerol.github.io/battle-pong)
 
   - Remake of the classic game with rockets and different game types
 

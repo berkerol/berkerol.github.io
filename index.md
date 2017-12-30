@@ -2,7 +2,7 @@
 
 - [Sprinter Turtle](https://berkerol.github.io/sprinter-turtle)
 
-  - 2D top down road crossing game (designed by myself)
+  - 2D top down road crossing game
 
 - [Breakout](https://berkerol.github.io/breakout)
 
@@ -10,7 +10,7 @@
 
 - [Pong](https://berkerol.github.io/pong)
 
-  - Remake of the classic game with different game types
+  - Remake of the classic game with rockets and different game types
 
 - [Typer](https://berkerol.github.io/typer)
 
@@ -19,6 +19,10 @@
 - [Animation](https://berkerol.github.io/animation)
 
   - A beautiful sky animation with colorful and moving stars
+
+- [Rock Paper Scissors Lizard Spock](https://berkerol.github.io/rock-paper-scissors-lizard-spock)
+
+  - Remake of the classic game with the Lizard Spock expansion
 
 ## Desktop Games
 
@@ -41,10 +45,6 @@
 - [Guess the Average](https://berkerol.github.io/guess-the-average)
 
   - Try to calculate the average of the appearing numbers (designed by myself)
-
-- [Rock Paper Scissors (Lizard Spock)](https://berkerol.github.io/rock-paper-scissors-lizard-spock)
-
-  - Remake of the classic game with GUI and the Lizard Spock expansion
 
 - [Battleship](https://berkerol.github.io/battleship)
 

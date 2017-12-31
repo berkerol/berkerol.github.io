@@ -20,6 +20,10 @@
 
   - A beautiful sky animation with colorful and moving stars
 
+- [Guess the Number](https://berkerol.github.io/guess-the-number)
+
+  - Try to find the number using various hints within the guess limit
+
 - [Rock Paper Scissors Lizard Spock](https://berkerol.github.io/rock-paper-scissors-lizard-spock)
 
   - Remake of the classic game with the Lizard Spock expansion
@@ -29,10 +33,6 @@
 - [Hangman](https://berkerol.github.io/hangman)
 
   - Remake of the classic game with GUI and customization options for adding variety
-
-- [Guess the Number](https://berkerol.github.io/guess-the-number)
-
-  - Try to find the number using various hints (designed by myself)
 
 - [Guess the Image](https://berkerol.github.io/guess-the-image)
 

@@ -24,6 +24,10 @@
 
   - Try to find the number using various hints within the guess limit
 
+- [Guess the Average](https://berkerol.github.io/guess-the-average)
+
+  - Try to calculate the average of the appearing numbers
+
 - [Rock Paper Scissors Lizard Spock](https://berkerol.github.io/rock-paper-scissors-lizard-spock)
 
   - Remake of the classic game with the Lizard Spock expansion
@@ -41,10 +45,6 @@
 - [Match the Numbers](https://berkerol.github.io/match-the-numbers)
 
   - Try to make all the numbers equal by traversing them (designed by myself)
-
-- [Guess the Average](https://berkerol.github.io/guess-the-average)
-
-  - Try to calculate the average of the appearing numbers (designed by myself)
 
 - [Battleship](https://berkerol.github.io/battleship)
 

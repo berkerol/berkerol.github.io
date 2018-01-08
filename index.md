@@ -20,6 +20,10 @@
 
   - A beautiful sky animation with colorful and moving stars
 
+- [Snowstorm](https://berkerol.github.io/snowstorm)
+
+  - A beautiful snowstorm animation
+
 - [Guess the Number](https://berkerol.github.io/guess-the-number)
 
   - Try to find the number using various hints within the guess limit

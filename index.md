@@ -4,13 +4,13 @@
 
   - 2D top down road crossing game
 
-- [Breakout](https://berkerol.github.io/breakout)
-
-  - Remake of the classic game with falling meteors for increased action
-
 - [Battle Pong](https://berkerol.github.io/battle-pong)
 
   - Remake of the classic game with rockets and different game types
+
+- [Breakout](https://berkerol.github.io/breakout)
+
+  - Remake of the classic game with falling meteors for increased action
 
 - [Typer](https://berkerol.github.io/typer)
 

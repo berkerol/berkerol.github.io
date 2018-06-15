@@ -16,7 +16,7 @@
 
   - A tower defense like typing game
 
-- [Animation](https://berkerol.github.io/animation)
+- [Stargazing](https://berkerol.github.io/stargazing)
 
   - A beautiful sky animation with colorful and moving stars
 

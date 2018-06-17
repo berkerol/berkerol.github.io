@@ -20,6 +20,10 @@
 
   - A beautiful sky animation with colorful and moving stars
 
+- [Fireworks](https://berkerol.github.io/fireworks)
+
+  - Create your own fireworks show or watch one randomly
+
 - [Snowstorm](https://berkerol.github.io/snowstorm)
 
   - A beautiful snowstorm animation

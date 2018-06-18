@@ -26,7 +26,7 @@
 
 - [Snowstorm](https://berkerol.github.io/snowstorm)
 
-  - A beautiful snowstorm animation
+  - Watch a crazy snowstorm in the comfort of your browser
 
 - [Spaceflight](https://berkerol.github.io/spaceflight)
 

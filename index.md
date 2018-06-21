@@ -16,13 +16,13 @@
 
   - A tower defense like typing game
 
-- [Stargazing](https://berkerol.github.io/stargazing)
-
-  - A beautiful sky animation with colorful and moving stars
-
 - [Fireworks](https://berkerol.github.io/fireworks)
 
   - Create your own fireworks show or watch one randomly
+
+- [Stargazing](https://berkerol.github.io/stargazing)
+
+  - A beautiful sky animation with colorful and moving stars
 
 - [Snowstorm](https://berkerol.github.io/snowstorm)
 

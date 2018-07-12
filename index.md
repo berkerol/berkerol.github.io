@@ -1,3 +1,21 @@
+## Web Animations
+
+- [Fireworks](https://berkerol.github.io/fireworks)
+
+  - Create your own fireworks show or watch one randomly
+
+- [Stargazing](https://berkerol.github.io/stargazing)
+
+  - A beautiful sky animation with colorful and moving stars
+
+- [Snowstorm](https://berkerol.github.io/snowstorm)
+
+  - Watch a crazy snowstorm in the comfort of your browser
+
+- [Spaceflight](https://berkerol.github.io/spaceflight)
+
+  - Enter a journey into the depths of space
+
 ## Web Games
 
 - [Sprinter Turtle](https://berkerol.github.io/sprinter-turtle)
@@ -15,22 +33,6 @@
 - [Typer](https://berkerol.github.io/typer)
 
   - A tower defense like typing game
-
-- [Fireworks](https://berkerol.github.io/fireworks)
-
-  - Create your own fireworks show or watch one randomly
-
-- [Stargazing](https://berkerol.github.io/stargazing)
-
-  - A beautiful sky animation with colorful and moving stars
-
-- [Snowstorm](https://berkerol.github.io/snowstorm)
-
-  - Watch a crazy snowstorm in the comfort of your browser
-
-- [Spaceflight](https://berkerol.github.io/spaceflight)
-
-  - Enter a journey into the depths of space
 
 - [Roll a Ball](https://berkerol.github.io/roll-a-ball)
 

@@ -42,6 +42,10 @@
 
   - Try to find the number using various hints within the guess limit
 
+- [Match the Numbers](https://berkerol.github.io/match-the-numbers)
+
+  - Try to make all numbers equal by visiting them
+
 - [Guess the Average](https://berkerol.github.io/guess-the-average)
 
   - Try to calculate the average of the appearing numbers
@@ -59,10 +63,6 @@
 - [Guess the Image](https://berkerol.github.io/guess-the-image)
 
   - Try to recognize the partially visible images (designed by myself)
-
-- [Match the Numbers](https://berkerol.github.io/match-the-numbers)
-
-  - Try to make all the numbers equal by traversing them (designed by myself)
 
 - [Battleship](https://berkerol.github.io/battleship)
 

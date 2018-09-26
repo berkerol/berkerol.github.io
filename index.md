@@ -16,6 +16,10 @@
 
   - Enter a journey into the depths of space
 
+- [Hypnotizer](https://berkerol.github.io/hypnotizer)
+
+  - Hypnotize yourself with the flowing characters
+
 ## Web Games
 
 - [Sprinter Turtle](https://berkerol.github.io/sprinter-turtle)

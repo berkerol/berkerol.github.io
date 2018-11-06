@@ -1,5 +1,9 @@
 ## Web Animations
 
+- [Stock Price Simulator](https://berkerol.github.io/stock-price-simulator)
+
+  - Generate a random stock chart or watch its progress
+
 - [Fireworks](https://berkerol.github.io/fireworks)
 
   - Create your own fireworks show or watch one randomly

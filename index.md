@@ -42,9 +42,9 @@
 
   - A tower defense like typing game
 
-- [Roll a Ball](https://berkerol.github.io/roll-a-ball)
+- [Beat the Market](https://berkerol.github.io/beat-the-market)
 
-  - Destroy the cubes without touching the walls
+  - Buy low, sell high, make money
 
 - [Guess the Number](https://berkerol.github.io/guess-the-number)
 
@@ -61,6 +61,10 @@
 - [Rock Paper Scissors Lizard Spock](https://berkerol.github.io/rock-paper-scissors-lizard-spock)
 
   - Remake of the classic game with the Lizard Spock expansion
+
+- [Roll a Ball](https://berkerol.github.io/roll-a-ball)
+
+  - Destroy the cubes without touching the walls
 
 ## Desktop Games
 

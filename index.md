@@ -86,6 +86,14 @@
 
 ## Utilities
 
+- [GitHub Explorer](https://berkerol.github.io/github-explorer)
+
+  - Filter and sort all repositories of a user or organization
+
+- [Photo of the Day](https://berkerol.github.io/photo-of-the-day)
+
+  - Downloads Bing & NASA Photo of the Day and makes it desktop background
+
 - [Affine Cipher](https://berkerol.github.io/affine-cipher)
 
   - My implementation of Affine Cipher with a simple and easy to use GUI
@@ -93,9 +101,5 @@
 - [Mouse Breaker](https://berkerol.github.io/mouse-breaker)
 
   - Move your mouse with the arrow keys on the keyboard
-
-- [Photo of the Day](https://berkerol.github.io/photo-of-the-day)
-
-  - Downloads Bing & NASA Photo of the Day and makes it desktop background
 
 ## [CV](https://berkerol.github.io/cv)

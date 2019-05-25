@@ -90,6 +90,10 @@
 
   - Filter and sort all repositories of a user or organization
 
+- [Empatica Charts](https://berkerol.github.io/empatica-charts)
+
+  - Charts for physiological data gathered from [Empatica E4](https://www.empatica.com/research/e4/) wristband
+
 - [Photo of the Day](https://berkerol.github.io/photo-of-the-day)
 
   - Downloads Bing & NASA Photo of the Day and makes it desktop background

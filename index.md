@@ -84,7 +84,7 @@
 
   - Text based remake of the classic game with customization options for adding variety
 
-## Utilities
+## Web Utilities
 
 - [GitHub Explorer](https://berkerol.github.io/github-explorer)
 
@@ -97,6 +97,8 @@
 - [Empatica Charts](https://berkerol.github.io/empatica-charts)
 
   - Charts for physiological data gathered from [Empatica E4](https://www.empatica.com/research/e4/) wristband
+
+## Desktop Utilities
 
 - [Photo of the Day](https://berkerol.github.io/photo-of-the-day)
 

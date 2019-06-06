@@ -86,6 +86,10 @@
 
 ## Web Utilities
 
+- [Lottery](https://berkerol.github.io/lottery)
+
+  - Decentralized autonomous lottery
+
 - [GitHub Explorer](https://berkerol.github.io/github-explorer)
 
   - Filter and sort all repositories of a user or organization

@@ -72,6 +72,10 @@
 
 ## Desktop Games
 
+- [Battleship.js](https://berkerol.github.io/battleshipjs)
+
+  - A Battleship CLI game with customizations
+
 - [Hangman](https://berkerol.github.io/hangman)
 
   - Remake of the classic game with GUI and customization options for adding variety
@@ -79,10 +83,6 @@
 - [Guess the Image](https://berkerol.github.io/guess-the-image)
 
   - Try to recognize the partially visible images (designed by myself)
-
-- [Battleship](https://berkerol.github.io/battleship)
-
-  - Text based remake of the classic game with customization options for adding variety
 
 ## Web Utilities
 

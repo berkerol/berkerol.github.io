@@ -108,8 +108,8 @@
 
   - Downloads Bing & NASA Photo of the Day and makes it desktop background
 
-- [Mouse Breaker](https://berkerol.github.io/mouse-breaker)
+- [Mouse.js](https://berkerol.github.io/mousejs)
 
-  - Move your mouse with the arrow keys on the keyboard
+  - Move your mouse with arrow keys on the keyboard
 
 ## [CV](https://berkerol.github.io/cv)

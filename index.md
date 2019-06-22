@@ -58,6 +58,10 @@
 
   - Try to make all numbers equal by visiting them
 
+- [Hangman](https://berkerol.github.io/hangman)
+
+  - Remake of the classic game with GUI
+
 - [Guess the Average](https://berkerol.github.io/guess-the-average)
 
   - Try to calculate the average of the appearing numbers
@@ -75,10 +79,6 @@
 - [Battleship.js](https://berkerol.github.io/battleshipjs)
 
   - A Battleship CLI game with customizations
-
-- [Hangman](https://berkerol.github.io/hangman)
-
-  - Remake of the classic game with GUI and customization options for adding variety
 
 - [Guess the Image](https://berkerol.github.io/guess-the-image)
 

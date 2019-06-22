@@ -106,7 +106,7 @@
 
 - [Photo of the Day](https://berkerol.github.io/photo-of-the-day)
 
-  - Downloads Bing & NASA Photo of the Day and makes it desktop background
+  - Downloads Bing, NASA, National Geographic Photo of the Day and sets it as wallpaper
 
 - [Mouse.js](https://berkerol.github.io/mousejs)
 

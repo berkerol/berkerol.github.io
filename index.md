@@ -1,4 +1,4 @@
-## Web Animations
+## Animations
 
 - [Fireworks](https://berkerol.github.io/fireworks)
 
@@ -28,7 +28,7 @@
 
   - Generate a random stock chart or watch its progress
 
-## Web Games
+## Games
 
 - [Sprinter Turtle](https://berkerol.github.io/sprinter-turtle)
 
@@ -78,13 +78,11 @@
 
   - Destroy the cubes without touching the walls
 
-## Desktop Games
-
 - [Battleship.js](https://berkerol.github.io/battleshipjs)
 
   - A Battleship CLI game with customizations
 
-## Web Utilities
+## Utilities
 
 - [Lottery](https://berkerol.github.io/lottery)
 
@@ -101,8 +99,6 @@
 - [Empatica Charts](https://berkerol.github.io/empatica-charts)
 
   - Charts for physiological data gathered from [Empatica E4](https://www.empatica.com/research/e4/) wristband
-
-## Desktop Utilities
 
 - [Photo of the Day](https://berkerol.github.io/photo-of-the-day)
 

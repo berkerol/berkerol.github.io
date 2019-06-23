@@ -50,6 +50,10 @@
 
   - Buy low, sell high, make money
 
+- [Guess the Image](https://berkerol.github.io/guess-the-image)
+
+  - Try to recognize the partially visible images
+
 - [Guess the Number](https://berkerol.github.io/guess-the-number)
 
   - Try to find the number using various hints within the guess limit
@@ -79,10 +83,6 @@
 - [Battleship.js](https://berkerol.github.io/battleshipjs)
 
   - A Battleship CLI game with customizations
-
-- [Guess the Image](https://berkerol.github.io/guess-the-image)
-
-  - Try to recognize the partially visible images (designed by myself)
 
 ## Web Utilities
 

@@ -1,7 +1,3 @@
-theme:           jekyll-theme-cayman
-title:           Berk Erol's website
-description:     Welcome to my personal page
-is_user_page:    true
-is_project_page: false
-show_downloads:  false
-google_analytics: UA-122994978-1
+theme: jekyll-theme-cayman
+title: Berk Erol
+description: Software Engineer

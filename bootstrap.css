@@ -4932,3 +4932,6 @@ a.text-dark:hover, a.text-dark:focus {
 .page-header {
   padding-top: 3rem;
   padding-bottom: 3rem; }
+
+.pointer:hover {
+  cursor: pointer; }
